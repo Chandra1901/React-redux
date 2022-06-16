@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: aquamarine ;
+}
+
+.app {
+   text-align: center;
+   width: 700px;
+   height: 700px;
+   background-color: antiquewhite;
+   border-radius: 4px;
+   margin: 100px;
+   padding: 10PX;
+}
+
+.Btn1 {
+  font-size: 20px;
+  width: 120px;
+  height: 45px;
+  background-color: seagreen;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.Btn2 {
+  font-size: 20px;
+  width: 233px;
+  height: 45px;
+  background-color: seagreen;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-left: 20px;
+}
